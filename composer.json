@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "getkirby/composer-installer": "^1.1"
+        "getkirby/composer-installer": "^1.1",
+        "ksubileau/color-thief-php":"v2.0.0"
     },
     "extra": {
         "installer-name": "colorextractor"
